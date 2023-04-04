@@ -1,0 +1,13 @@
+__pycache__
+uploads
+results
+
+# macOS
+._*
+.DS_Store
+
+# pyenv
+.python-version
+
+log.log
+tmp/*
