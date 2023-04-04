@@ -1,8 +1,11 @@
 Archive - Koizumi Takahiro
 ==========================
 
-| | DEIM 2023 |
-| ---: | --- |
+DEIM 2023
+---------
+
+| | Domestic Conference (Japan) |
+| ---: | :--- |
 | Theme | 公理系を用いたHuman-in-the-loopエンティティマッチング |
 | Last update | 2023.03.22 |
 | Docs | https://github.com/k1z3/archive/releases/tag/deim2023 |
@@ -11,8 +14,11 @@ Archive - Koizumi Takahiro
 | Website | https://event.dbsj.org/deim2023/ |
 
 
-| | Graduation thesis |
-| ---: | --- |
+Graduation thesis
+-----------------
+
+| | Thesis |
+| ---: | :--- |
 | Theme | 公理系を用いたHuman-in-the-loopエンティティマッチング手法 |
 | Last update | 2023.02.17 |
 | Docs | https://github.com/k1z3/archive/releases/tag/graduation-thesis |
