@@ -26,7 +26,7 @@ Thesis
 | | University of Tsukuba, School of informatics, college of media arts, science and technology |
 
 
-Protfolio (PDF edtion)
+Portfolio (PDF edtion)
 ----------------------
 
 | | Portfolio |
