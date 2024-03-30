@@ -32,4 +32,4 @@ Protfolio (PDF edtion)
 | | Portfolio |
 | ---: | :--- |
 | Last update | 2024.03.27 |
-| Docs | [PDF](https://github.com/k1z3/archive/releases/download/portfolio/portfolio.pdf) |
+| Docs | [PDF](https://github.com/k1z3/archive/releases/download/portfolio/MyPortfolio.pdf) |
