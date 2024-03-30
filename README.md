@@ -1,5 +1,6 @@
-Archive - Takahiro Koizumi
+Archive - Koizumi
 ==========================
+
 
 DEIM 2023
 ---------
@@ -23,3 +24,12 @@ Thesis
 | Last update | 2023.02.17 |
 | Docs | [Thesis](https://github.com/k1z3/archive/releases/download/graduation-thesis/thesis.pdf), [Slide](https://github.com/k1z3/archive/releases/download/graduation-thesis/slide.pdf) |
 | | University of Tsukuba, School of informatics, college of media arts, science and technology |
+
+
+Protfolio (PDF edtion)
+----------------------
+
+| | Portfolio |
+| ---: | :--- |
+| Last update | 2024.03.27 |
+| Docs | [PDF](https://github.com/k1z3/archive/releases/download/portfolio/portfolio.pdf) |
