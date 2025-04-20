@@ -41,12 +41,18 @@ Archive
 学位論文 / Thesis
 -----------------
 
-| | 卒論 / Graduation thesis |
+| | 修士論文 / Master's thesis |
+| ---: | :--- |
+| Title | 公理系を用いたHuman-in-the-loopエンティティマッチング手法の提案 |
+| Publication Year | 2026 |
+|  | Master's and Doctoral Program in Infomatics, Graduate School of Comprehensive Human Sciences, University of Tsukuba |
+
+| | 卒業論文 / Graduation thesis |
 | ---: | :--- |
 | Title | 公理系を用いたHuman-in-the-loopエンティティマッチング手法 |
 | Publication Year | 2024 |
 | Docs | [Thesis](https://github.com/k1z3/archive/releases/download/graduation-thesis/k1z3-graduation-thesis.pdf), [Slide](https://github.com/k1z3/archive/releases/download/graduation-thesis/k1z3-graduation-slide.pdf) |
-| | University of Tsukuba, School of informatics, college of media arts, science and technology |
+| | School of Informatics, College of Media Arts, Science and Technology, University of Tsukuba |
 
 
 Portfolio (PDF edition)
