@@ -2,10 +2,22 @@ Archive
 ==========================
 
 
-DEIM 2023
----------
+査読付国際会議論文 / Refereed International Conference Proceedings
+----------------
 
-| | 第15回データ工学と情報マネジメントに関するフォーラム |
+| | Living in AI-gorithmic world: 20th International Conference (iConference 2025) |
+| ---: | :--- |
+| Title | Inconsistency-driven Approach for Human-in-the-loop Entity Matching |
+| Date | March 11th -- March 22nd, 2025 |
+| Docs | [Paper](https://github.com/k1z3/archive/releases/download/iconference2025/paper.pdf) |
+| Place | Indiana Bloomington, USA |
+| Proceedings | Hiroyoshi Ito, Takahiro Koizumi, Ryuji Yoshimoto, Yukihiro Fukushima, Takashi Harada, Atsuyuki Morishima. “Inconsistency-driven Approach for Human-in-the-loop Entity Matching”. Living in AI-gorithmic world: 20th International Conference, iConference 2025. Indiana Bloomington, USA, March 18-22, 2025. |
+| Website | [https://publicera.kb.se/ir/issue/view/3952#article-47140](https://publicera.kb.se/ir/issue/view/3952#article-47140) |
+
+国内発表 / Domestic Conference
+-------------------------
+
+| | 第15回データ工学と情報マネジメントに関するフォーラム (DEIM2023) |
 | ---: | :--- |
 | Title | 公理系を用いたHuman-in-the-loopエンティティマッチング |
 | Date | March 5th -- March 9th, 2023 |
@@ -16,13 +28,13 @@ DEIM 2023
 | Website | https://event.dbsj.org/deim2023/ |
 
 
-Thesis
+学位論文 / Thesis
 -----------------
 
-| | Graduation thesis |
+| | 卒論 / Graduation thesis |
 | ---: | :--- |
 | Title | 公理系を用いたHuman-in-the-loopエンティティマッチング手法 |
-| Last update | 2023.02.17 |
+| Publication Year | 2024 |
 | Docs | [Thesis](https://github.com/k1z3/archive/releases/download/graduation-thesis/thesis.pdf), [Slide](https://github.com/k1z3/archive/releases/download/graduation-thesis/slide.pdf) |
 | | University of Tsukuba, School of informatics, college of media arts, science and technology |
 
